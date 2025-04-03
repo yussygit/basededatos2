@@ -1,5 +1,5 @@
 -- phpMyAdmin SQL Dump
--- version 5.2.1
+-- version 8.2.12
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: localhost:3306
